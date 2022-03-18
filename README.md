@@ -1,4 +1,8 @@
-### Hi there 👋
+### Bonjour 👋
+
+Je suis Emmanuel Niasse et vous êtes actuellement dans mon stockage distant, là où se trouvent la plupart de mes projets perso ! 
+
+Portfolio : https://www.emmanuelniasse.fr
 
 <!--
 **emmanuelniasse/emmanuelniasse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
