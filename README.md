@@ -1,6 +1,6 @@
 ### Bonjour 👋
 
-Je suis Emmanuel Niasse et vous êtes actuellement dans mon stockage distant, là où se trouvent la plupart de mes projets perso ! 
+Bienvenue sur mon Github, là où se trouvent la plupart de mes projets perso ! 
 
 Portfolio : https://www.emmanuelniasse.fr
 
