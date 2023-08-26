@@ -1,3 +1,1 @@
-### Bonjour 👋
-
-- 🌱 Bienvenue
+### Welcome 👋
